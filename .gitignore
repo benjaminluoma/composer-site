@@ -17,5 +17,3 @@ public/content/plugins/*
 public/content/themes/twenty*
 public/content/mu-plugins/*
 !public/content/mu-plugins/app.php
-
-.DS_Store
